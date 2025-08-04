@@ -17,5 +17,5 @@ This project demonstrates a **complete network design** and configuration with m
 - Troubleshooting and Testing Tools: ping, traceroute
 
 ##  🌐 Network Topology
-
+![Network Topology](Topology.png)
 
